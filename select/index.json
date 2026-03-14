@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "朧月夜物語",
+  "base_artist": "ツユ",
+  "createdAt": "2026-03-14T16:55:09.710141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朧月夜物語",
+      "artist": "TUYU",
+      "has_synced": false,
+      "path": "select/01_朧月夜物語_TUYU.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朧月夜物語",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_朧月夜物語_ツユ.txt"
+    }
+  ]
+}
